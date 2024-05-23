@@ -17,8 +17,8 @@
 <br />
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandipkatel&theme=transparent&show_icons=true&locale=en&layout=compact" width="500px" height="170px" alt="GitHub Languages"/>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-pearl-seven.vercel.app?user=sandipkatel&theme=transparent&date_format=%5BY%20%5DM%20j&card_width=400&card_height=150" alt="GitHub Streak"/></a>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandipkatel&theme=transparent&show_icons=true&locale=en&layout=compact" height="170px" alt="GitHub Languages"/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-pearl-seven.vercel.app?user=sandipkatel&theme=transparent&date_format=%5BY%20%5DM%20j&card_width=400&card_height=150&fire=yellow" alt="GitHub Streak"/></a>
 </p>
 
 <br />
