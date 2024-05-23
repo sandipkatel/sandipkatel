@@ -1,6 +1,6 @@
 ## Hi, It's me Sandip Katel👋 🧑‍💻
 
-<img src="Sandip_Katel's_Banner.png" alt="banner that says Sandip Katel - computer engineering student, an AI enthusiast alongside picture of Sandip" height="500px" aspect-ratio="1/1">
+<img src="https://github.com/sandipkatel/sandipkatel/blob/63975969d52f18226655c114f38d296ae16ae171/Images/Sandip_Katel's_Banner.png" alt="banner that says Sandip Katel - computer engineering student, an AI enthusiast alongside picture of Sandip" width="100%" aspect-ratio="1/1">
 
 <br />
 
@@ -16,18 +16,17 @@
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandipkatel&show_icons=true&locale=en&layout=compact" alt="Sandip's Languages" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandipkatel&" alt="Sandip's Streak" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandipkatel&theme=dark&show_icons=true&locale=en&layout=compact" alt="GitHub Languages" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-pearl-seven.vercel.app?user=sandipkatel&theme=dark&date_format=%5BY%20%5DM%20j&card_width=400&card_height=150" alt="GitHub Streak" /></a></p>
 
 <br />
 
 <br />
 
 <a href="https://x.com/KatelSandip">
-  <img align="right" alt="Sandip Katel | Twitter" width="21px" src="https://github.com/sandipkatel/sandipkatel/blob/53ce48ab21566eceeb55de74d6916872aeeba4fc/X%20Icon.png" />
+  <img align="right" alt="Sandip Katel | Twitter" width="21px" src="https://github.com/sandipkatel/sandipkatel/blob/5410df50e4600d93c20289e1eab5cf60007fa6c1/Images/X%20Icon.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/sandip-katel-7904b9198">
-  <img align="right" alt="Sandip Katel | LinkedIn" width="20px" src="https://github.com/sandipkatel/sandipkatel/blob/53ce48ab21566eceeb55de74d6916872aeeba4fc/LinkedIn%20Icon.png" />
+  <img align="right" alt="Sandip Katel | LinkedIn" width="20px" src="https://github.com/sandipkatel/sandipkatel/blob/5410df50e4600d93c20289e1eab5cf60007fa6c1/Images/LinkedIn%20Icon.png" />
 </a>
