@@ -1,12 +1,8 @@
-name: GitHub Dolphin Contributions Visualization
-
+name: GitHub Blue Snake Contributions
 on:
-  # Schedule the workflow to run daily at midnight UTC
   schedule:
     - cron: "0 0 * * *"
-  # Allow manual triggering of the workflow
   workflow_dispatch:
-  # Trigger the workflow on pushes to the main branch
   push:
     branches:
       - main
@@ -15,32 +11,27 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
       
-      # Step 2: Generate the dolphin animations
-      - name: Generate GitHub Contributions Ocean Animations
+      - name: Generate Blue Snake Animations
         uses: Platane/snk@v3
         with:
-          # GitHub username to generate the animation for
           github_user_name: ${{ github.repository_owner }}
-          # Define the output files and their configurations
           outputs: |
-            dist/github-dolphin.svg
-            dist/github-dolphin-dark.svg?palette=github-dark
-            dist/ocean-splash.gif?color_snake=blue&color_dots=#87CEEB,#4682B4,#1E90FF,#4169E1,#0000CD
+            dist/github-dolphin.svg?color_snake=blue
+            dist/github-dolphin-dark.svg?color_snake=lightblue&palette=github-dark
+            dist/blue-ocean.gif?color_snake=blue&color_dots=#4169E1,#1E90FF,#87CEEB,#4682B4,#0000CD
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
-      # Step 3: Deploy the generated files to the 'output' branch
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          commit_message: "Update ocean-themed contributions visualization [skip ci]"
+          commit_message: "Update blue snake contributions visualization [skip ci]"
 
 # name: GitHub Snake Game
 
