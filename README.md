@@ -33,8 +33,13 @@
   <img align="right" alt="Sandip Katel | LinkedIn" width="20px" src="https://github.com/sandipkatel/sandipkatel/blob/5410df50e4600d93c20289e1eab5cf60007fa6c1/Images/LinkedIn%20Icon.png" />
 </a>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandipkatel/sandipkatel/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandipkatel/sandipkatel/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/sandipkatel/sandipkatel/output/github-snake.svg" />
+</picture> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandipkatel/sandipkatel/output/github-dolphin-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandipkatel/sandipkatel/output/github-dolphin.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sandipkatel/sandipkatel/output/github-dolphin.svg" />
 </picture>
