@@ -8,7 +8,7 @@
 
 - 💼 Computer engineering student at [Pulchowk Engineering Campus](https://pcampus.edu.np/)
 
-- ❤️ I love writing codes, and learning stuff 
+- ❤️ I love writing codes, and learning stuff
 
 - 💬 Ask me about anything [here](https://github.com/sandipkatel/sandipkatel/issues)
 
@@ -32,3 +32,9 @@
 <a href="https://www.linkedin.com/in/sandip-katel-7904b9198">
   <img align="right" alt="Sandip Katel | LinkedIn" width="20px" src="https://github.com/sandipkatel/sandipkatel/blob/5410df50e4600d93c20289e1eab5cf60007fa6c1/Images/LinkedIn%20Icon.png" />
 </a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandipkatel/sandipkatel/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandipkatel/sandipkatel/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sandipkatel/sandipkatel/output/github-snake.svg" />
+</picture>
