@@ -24,11 +24,6 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-pearl-seven.vercel.app?user=sandipkatel&theme=transparent&date_format=%5BY%20%5DM%20j&card_width=400&card_height=150&fire=yellow" alt="GitHub Streak"/></a>
 </p>
 
-<br />
-
-<br />
-
-### 🐍 Contributions Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandipkatel/sandipkatel/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandipkatel/sandipkatel/output/github-snake.svg" />
@@ -36,10 +31,6 @@
 </picture>
 
 **📬 Want to chat? [Open an issue!](https://github.com/sandipkatel/sandipkatel/issues)**
-
-<br />
-
-<br />
 
 <a href="https://x.com/KatelSandip">
   <img align="right" alt="Sandip Katel | Twitter" width="21px" src="https://github.com/sandipkatel/sandipkatel/blob/5410df50e4600d93c20289e1eab5cf60007fa6c1/Images/X%20Icon.png" />
