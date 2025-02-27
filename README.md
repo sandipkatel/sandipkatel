@@ -1,7 +1,7 @@
 ## Hi, I'm Sandip Katel! 🚀👨‍💻
 
 <div align="center">
-  <img src="https://github.com/sandipkatel/sandipkatel/blob/63975969d52f18226655c114f38d296ae16ae171/Images/Sandip_Katel's_Banner.png" alt="Sandip Katel Banner" width="100%" style="max-width: 1200px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <img src="https://github.com/sandipkatel/sandipkatel/blob/main/Images/Sandip_Katel's_Banner.png" alt="Sandip Katel Banner" width="100%" style="max-width: 1200px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </div>
 
 ## 🌟 About Me
