@@ -7,7 +7,7 @@
 ## 🌟 About Me
 
 ### 🎓 Academic Journey
-- **Institution:** [Pulchowk Engineering Campus](https://pcampus.edu.np/)
+- **Institution:** [Pulchowk Campus](https://pcampus.edu.np/)
 - **Field:** Computer Engineering
 
 ### 💡 Passion & Interests
