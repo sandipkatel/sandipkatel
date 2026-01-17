@@ -1,28 +1,38 @@
-## Hi, I'm Sandip Katel! 🚀👨‍💻
+# Hi, I'm Sandip Katel! 🚀👨‍💻
 
-<div align="center">
-  <img src="https://github.com/sandipkatel/sandipkatel/blob/main/Images/Sandip_Katel's_Banner.png" alt="Sandip Katel Banner" width="100%" style="max-width: 1200px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-</div>
-
-## 🌟 About Me
+R&D Engineer @ [HuSig AI](https://husig.ai) | Final Sem Computer Engineering Student @ [Pulchowk Campus](https://pcampus.edu.np/)
 
 ### 🎓 Academic Journey
-- **Institution:** [Pulchowk Campus](https://pcampus.edu.np/)
+- **Institution:** [Pulchowk Campus, IOE](https://pcampus.edu.np/)
 - **Field:** Computer Engineering
 
-### 💡 Passion & Interests
-- 💻 Code Crafting
-- 🤖 AI Enthusiast
-- 🌱 Perpetual Learner
+### 💡 What I Do
+- 💻 Building AI-powered automation tools & intelligent data solutions
+- 🤖 Working with LLMs, RAG, Computer Vision, and Generative AI
+- 🚀 Full-stack development with React, Next.js, Python, and FastAPI
+- 🌱 Always learning, always building
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 <br />
 
-<br />
+## 📊 GitHub Stats
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandipkatel&theme=transparent&show_icons=true&locale=en&layout=compact" height="170px" alt="GitHub Languages"/>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-pearl-seven.vercel.app?user=sandipkatel&theme=transparent&date_format=%5BY%20%5DM%20j&card_width=400&card_height=150&fire=yellow" alt="GitHub Streak"/></a>
+<p align="center">
+  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandipkatel&theme=transparent&show_icons=true&locale=en&layout=compact" height="170px" alt="GitHub Languages"/> -->
+  <img align="center" src="https://github-readme-streak-stats-pearl-seven.vercel.app?user=sandipkatel&theme=transparent&date_format=%5BY%20%5DM%20j&card_width=400&card_height=150&fire=yellow" alt="GitHub Streak"/>
 </p>
+
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandipkatel/sandipkatel/output/github-snake-dark.svg" />
@@ -30,12 +40,23 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/sandipkatel/sandipkatel/output/github-snake.svg" />
 </picture>
 
+<br />
+
+## 💬 Let's Connect!
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-skatel.com.np-blue?style=for-the-badge)](https://skatel.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sandipkatel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandipkatel/)
+[![Instagram](https://img.shields.io/badge/Instagram-@____sandip__katel____-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__sandip_katel__)
+[![Email](https://img.shields.io/badge/Email-sandip@skatel.com.np-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandip@skatel.com.np)
+
 **📬 Want to chat? [Open an issue!](https://github.com/sandipkatel/sandipkatel/issues)**
 
-<a href="https://x.com/KatelSandip">
-  <img align="right" alt="Sandip Katel | Twitter" width="21px" src="https://github.com/sandipkatel/sandipkatel/blob/5410df50e4600d93c20289e1eab5cf60007fa6c1/Images/X%20Icon.png" />
-</a>
+</div>
 
-<a href="https://www.linkedin.com/in/sandip-katel-7904b9198">
-  <img align="right" alt="Sandip Katel | LinkedIn" width="20px" src="https://github.com/sandipkatel/sandipkatel/blob/5410df50e4600d93c20289e1eab5cf60007fa6c1/Images/LinkedIn%20Icon.png" />
-</a>
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sandipkatel&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
