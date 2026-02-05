@@ -1,6 +1,6 @@
 # Hi, I'm Sandip Katel! 🚀👨‍💻
 
-R&D Engineer @ [HuSig AI](https://husig.ai) | Final Sem Computer Engineering Student @ [Pulchowk Campus](https://pcampus.edu.np/)
+R&D Engineer @[HuSig AI](https://husig.ai) | Final Sem Computer Engineering Student @[Pulchowk Campus](https://pcampus.edu.np/)
 
 ### 🎓 Academic Journey
 - **Institution:** [Pulchowk Campus, IOE](https://pcampus.edu.np/)
