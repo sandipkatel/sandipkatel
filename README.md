@@ -16,10 +16,8 @@
 ASE @[YCOTEK](https://ycotek.com/) | Computer Engineer Undergrad from [Pulchowk Campus](https://pcampus.edu.np/)
 
 <a href="https://github.com/sandipkatel">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=0E75B6&width=420&lines=AI+%2B+Automation+Engineer;LLMs+%7C+RAG+%7C+Computer+Vision;Full-stack+Developer;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=0E75B6&width=420&lines=AI+%2B+Data+Engineer;LLMs+%7C+RAG+%7C+Computer+Vision;Full-stack+Developer;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
-
-    </td>
   </tr>
 </table>
 
@@ -57,26 +55,18 @@ ASE @[YCOTEK](https://ycotek.com/) | Computer Engineer Undergrad from [Pulchowk 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandipkatel&theme=transparent&show_icons=true&locale=en&layout=compact" height="170px" alt="GitHub Languages"/> -->
   <img align="center" src="https://github-readme-streak-stats-pearl-seven.vercel.app?user=sandipkatel&theme=transparent&date_format=%5BY%20%5DM%20j&card_width=400&card_height=150&fire=yellow" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sandipkatel&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandipkatel&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&hide_border=true" alt="Activity graph" width="95%" />
 </p>
 
 <br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandipkatel/sandipkatel/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandipkatel/sandipkatel/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sandipkatel/sandipkatel/output/github-snake.svg" />
-</picture>
-
+<div  align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandipkatel/sandipkatel/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandipkatel/sandipkatel/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/sandipkatel/sandipkatel/output/github-snake.svg" />
+  </picture>
+</div>
 <br />
 
 ## 💬 Let's Connect!
